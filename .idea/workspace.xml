@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1437b4d4-ed4c-4d31-8c31-ae135bb4f5d0" name="Changes" comment="change hw1">
-      <change afterPath="$PROJECT_DIR$/html/lesson1/images/bart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lesson1/images/homer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lesson1/images/lisa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lesson1/images/simpsom family.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lesson1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lesson1/main.css" afterDir="false" />
+    <list default="true" id="1437b4d4-ed4c-4d31-8c31-ae135bb4f5d0" name="Changes" comment="add hw2">
+      <change afterPath="$PROJECT_DIR$/html/lesson2/task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lesson2/task1/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lesson2/task2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lesson2/task2/styles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lesson2/task2/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lesson2/task2/styles/more.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/hw1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/hw1/scripts/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -60,6 +58,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\voronkina\html\lesson2\first card" />
+      <recent name="C:\Users\user\IdeaProjects\voronkina\html\lesson2\styles" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677968466772</updated>
       <workItem from="1677968468302" duration="1628000" />
-      <workItem from="1678032193449" duration="9596000" />
+      <workItem from="1678032193449" duration="26322000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1677968731158</created>
@@ -113,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677969475803</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add hw2">
+      <created>1678041873851</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678041873851</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +144,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="change hw1" />
-    <option name="LAST_COMMIT_MESSAGE" value="change hw1" />
+    <MESSAGE value="add hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw2" />
   </component>
 </project>

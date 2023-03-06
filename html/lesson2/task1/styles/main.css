@@ -1,0 +1,122 @@
+/*body {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+
+/*.main-container {*/
+/*    width: 500px;*/
+/*    height: 100vh;*/
+/*    background: silver;*/
+/*}*/
+
+/*.widget {*/
+/*    width: 100%;*/
+/*    height: 30%;*/
+/*    background: blue;*/
+
+/*}*/
+
+/*.main {*/
+/*    width: 100%;*/
+/*    height: 30%;*/
+/*    background: red;*/
+
+/*}*/
+
+/*.contacts {*/
+/*    width: 100%;*/
+/*    height: 40%;*/
+/*    background: blue;*/
+/*}*/
+
+/*.widget, .block, .contacts {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    font-size: 25px;*/
+/*    color: #fff;*/
+/*}*/
+/*.block  {*/
+/*    width: 30%;*/
+/*    height: 100%;*/
+/*}a*/
+
+/*.red {*/
+/*    background: red;*/
+/*}*/
+
+/*.gray {*/
+/*    background: gray;*/
+/*}*/
+
+body {
+    margin: 0;
+}
+
+.main-container {
+    width: 850px;
+    height: 100vh;
+
+    margin: 0 auto;
+}
+
+.widget {
+    width: 100%;
+    height: 330px;
+    background: #2269BB;
+}
+
+.main {
+    display: flex;
+    height: 250px;
+
+    column-gap: 20px;
+    padding: 20px 0;
+
+    box-sizing: border-box;
+}
+
+.block {
+
+    width: 33.3%;
+    height: 100%;
+
+    background: #16457A;
+}
+
+.contacts {
+    height: 500px;
+
+    background: #2269BB;
+}
+
+.first_text {
+    font-size: 60px;
+    font-family: Cambria, serif;
+
+    color: white;
+
+    padding-top: 130px;
+    text-align: center;
+}
+
+.block_text {
+    color: white;
+    text-align: center;
+
+    font-size: 30px;
+    font-family: Cambria, serif;
+
+    padding-top: 75px;
+}
+
+.contact_text {
+
+    color: white;
+    text-align: center;
+
+    font-size: 70px;
+    font-family: Cambria, serif;
+
+    padding-top: 180px;
+}
